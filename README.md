@@ -81,6 +81,6 @@ To analyze order data and uncover actionable insights to improve customer target
 
 ## 📌 Dashboard Snapshot
 
-![Dashboard](./your-image-file-name.png)
+![Dashboard](./sales.png)
 
 ---
