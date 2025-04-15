@@ -51,7 +51,7 @@ To analyze order data and uncover actionable insights to improve customer target
 1. **High Female Engagement**  
    - Women account for **64%** of the customer base, indicating a strong preference among female shoppers.
 
-2. **Top Age Group: Emerging Adults (25–34)**  
+2. **Top Age Group: Emerging Adults (18–34)**  
    - This segment contributes the highest number of orders, making it a prime group for targeted marketing.
 
 3. **Sales Channels**  
@@ -67,7 +67,7 @@ To analyze order data and uncover actionable insights to improve customer target
 
 ## 💡 Recommendations
 
-- 🎯 **Target Female Shoppers in the 25–34 Age Group**  
+- 🎯 **Target Female Shoppers in the 18–34 Age Group**  
   Design campaigns and personalized offers focused on this segment.
 
 - 🚚 **Enhance Delivery Performance Further**  
